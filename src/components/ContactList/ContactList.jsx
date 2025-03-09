@@ -1,5 +1,5 @@
 import React from "react";
-import Contact from "../Contact/contacts";
+import Contact from "../Contact/Contacts";
 
 export default function ContactList({ contacts, onDelete }) {
   return (
